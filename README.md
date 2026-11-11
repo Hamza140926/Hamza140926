@@ -16,7 +16,12 @@
 <p>🧠 Mental health: <code>Kernel Panic</code><br>
 ☕ Sleep: <code>Service Disabled</code><br>
 🔒 Trust: <code>SSL Certificate Revoked</code></p>
-<p><i>Spent years building something stable. One unexpected disconnect and suddenly <code>rm -rf</code> looks like therapy.</i></p>
+<p><i>
+Years in development.
+A few weeks in pre-production. Then a painful rollback to dev for some unexpected fine-tuning.
+But abandoning the project was never part of the plan.
+Cause we'd already picked the domain name. And we picked it for a lifetime.❤️
+</i></p>
 <p><b>Accepting caffeine, pull requests &amp; refunds for my engineering degree.</b></p>
 </td>
 </tr>
